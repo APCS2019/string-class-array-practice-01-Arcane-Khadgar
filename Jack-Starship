@@ -7,5 +7,12 @@ public class test{
         name = n;
         age = a;
     }
+    
+    public String getName(){
+        return name;
+    }
+    public int getAge(){
+        return age;
+    }
 }
     
